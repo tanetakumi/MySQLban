@@ -1,0 +1,4 @@
+name: MySQLban
+version: ${project.version}
+main: net.serveron.hane.mysqlban.MySQLban
+api-version: 1.16
